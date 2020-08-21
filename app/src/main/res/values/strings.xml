@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Sofra</string>
+
+    <!--    activity_splash     -->
+    <string name="splash_btn1_order">Food Order</string>
+    <string name="splash_btn2_sale">Food Sale</string>
+    <!--    fragment_login     -->
+    <string name="login_tv_text">Sign In</string>
+    <string name="login_btn1_forgot_password">Forget your password?</string>
+    <string name="login_btn2_login">Login</string>
+    <string name="login_btn3_register">Don\'t have an account? Click</string>
+    <string name="login_btn3_register_here">here</string>
+    <string name="login_et_email">E-mail</string>
+    <string name="login_et_password">Password</string>
+    <!--    fragment_forgot_password     -->
+    <string name="forgot_password_tv_text">Please enter your email</string>
+    <string name="forgot_password_btn_send">Send</string>
+    <!--    fragment_reset_password     -->
+    <string name="reset_password_tv1_text">Please enter the code that was sent</string>
+    <string name="reset_password_et_code">Code</string>
+    <string name="reset_password_tv2_code">Please enter the new password</string>
+    <string name="reset_password_et_confirm_password">Confirm password</string>
+    <!--    fragment_register_client     -->
+    <string name="register_client_et_name">Name</string>
+    <string name="register_client_et_phone">Phone</string>
+    <string name="register_client_et_confirm_password">Confirm Password</string>
+    <string name="register_client_btn_register">Sign Up</string>
+    <!--    fragment_register_restaurant     -->
+    <string name="register_restaurant_et_name">Restaurant Name</string>
+    <string name="register_restaurant_et_delivery">Delivery Time</string>
+    <string name="register_restaurant_et_minimum_order">Minimum Order</string>
+    <string name="register_restaurant_et_delivery_fee">Delivery Fee</string>
+    <string name="register_restaurant_tv_contact_information">Contact Information</string>
+    <string name="register_restaurant_et_whats_app">Whats App</string>
+    <string name="register_restaurant_tv_store_photo">Store Photo</string>
+
+    <!--    bottom_navigation     -->
+    <string name="bottom_navigation_item_home">Home</string>
+    <string name="bottom_navigation_item_requests">Requests</string>
+    <string name="bottom_navigation_item_profile">Profile</string>
+    <string name="bottom_navigation_item_more">More</string>
+
+
+    <string-array name="city">
+        <item>City</item>
+        <item>FFsssdsdadsds</item>
+        <item>FFsssdsdadsds</item>
+    </string-array>
+
+    <string-array name="district">
+        <item>District</item>
+        <item>FFsssdsdadsds</item>
+        <item>FFsssdsdadsds</item>
+    </string-array>
+
+    <!--    Errors     -->
+    <string name="et_empty_field_error">Please fill empty fields</string>
+    <!--    fragment_login_Error     -->
+    <string name="login_et_email_error">Please enter your email</string>
+    <string name="login_et_password_error">Please enter your password</string>
+    <!--    fragment_reset_password_Error     -->
+    <string name="reset_password_et_code_error">Please enter the code that was sent</string>
+    <string name="reset_password_et_password_error">Please enter new password</string>
+    <string name="reset_password_et_confirm_password_error">Please re-enter the password</string>
+    <!--    fragment_register_client_Error     -->
+    <string name="register_client_et_name_error">Please enter your name</string>
+    <string name="register_client_et_phone_error">Please enter your phone</string>
+    <string name="register_client_et_password_error">Please a password</string>
+    <!--    fragment_register_restaurant_Error     -->
+    <string name="register_restaurant_tv_name_error">Please enter restaurant name</string>
+    <string name="register_restaurant_tv_email_error">Please enter restaurant email</string>
+    <string name="register_restaurant_tv_delivery_time_error">Please enter delivery time</string>
+    <string name="register_restaurant_tv_minimum_order_error">Please enter the mnimum of order</string>
+    <string name="register_restaurant_tv_delivery_fee_error">Please enter delivery fee</string>
+    <string name="register_restaurant_tv_phone_error">Please enter restaurant phone</string>
+    <string name="register_restaurant_tv_whatsapp_error">Please enter restaurant WhatsApp</string>
+
+</resources>
